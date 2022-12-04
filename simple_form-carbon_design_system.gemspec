@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative "lib/simple_form/carbon_design_system/version"
 
 Gem::Specification.new do |spec|
